@@ -11,3 +11,6 @@ serviceAccount:
   enabled: false
 autoscaling:
   enabled: false
+# Ajouter cette section manquante
+httpRoute:
+  enabled: false
