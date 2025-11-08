@@ -1,6 +1,6 @@
 image:
   repository: Toussema/complete-devops-project-2
-  tag: 1e37381
+  tag: 729cf6e
   pullPolicy: IfNotPresent
 service:
   type: ClusterIP
